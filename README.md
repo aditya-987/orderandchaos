@@ -1,6 +1,7 @@
 # Order and Chaos
 
-A web-based implementation of the strategic board game **Order and Chaos** built with React.
+A web-based implementation of the strategic board game **Order and Chaos** built with React. <br>
+<b>Website </b> : (https://orderandchaos.netlify.app/)
 
 ## About
 Order and Chaos is a two-player strategy game played on a 6x6 board. This project brings the game to your browser with a clean, interactive UI.
